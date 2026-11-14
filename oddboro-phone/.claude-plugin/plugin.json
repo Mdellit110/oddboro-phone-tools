@@ -1,0 +1,5 @@
+{
+  "name": "oddboro-phone",
+  "version": "0.1.0",
+  "description": "Test the Oddboro phone desk fast: a test office, door checks, a phone-size look in the browser pane, and the real phone over Tailscale."
+}

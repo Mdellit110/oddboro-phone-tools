@@ -1,0 +1,5 @@
+{
+  "name": "oddboro-phone-tools",
+  "owner": { "name": "owner" },
+  "plugins": [{ "name": "oddboro-phone", "source": "./oddboro-phone" }]
+}
